@@ -1,0 +1,35 @@
+C:\Documents and Settings\Dima\Local Settings\Application Data\Temporary Projects\Tests\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dima\Local Settings\Application Data\Temporary Projects\Tests\obj\x86\Debug\Tests.LoadForm.resources
+C:\Documents and Settings\Dima\Local Settings\Application Data\Temporary Projects\Tests\obj\x86\Debug\Tests.Properties.Resources.resources
+C:\Documents and Settings\Dima\Local Settings\Application Data\Temporary Projects\Tests\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Dima\Local Settings\Application Data\Temporary Projects\Tests\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Dima\Local Settings\Application Data\Temporary Projects\Tests\bin\Debug\Tests.exe
+C:\Documents and Settings\Dima\Local Settings\Application Data\Temporary Projects\Tests\bin\Debug\Tests.pdb
+C:\Documents and Settings\Dima\Local Settings\Application Data\Temporary Projects\Tests\obj\x86\Debug\Tests.exe
+C:\Documents and Settings\Dima\Local Settings\Application Data\Temporary Projects\Tests\obj\x86\Debug\Tests.pdb
+d:\my documents\visual studio 2010\Projects\Tests\Tests\obj\x86\Debug\Tests.exe
+d:\my documents\visual studio 2010\Projects\Tests\Tests\obj\x86\Debug\Tests.pdb
+d:\my documents\visual studio 2010\Projects\Tests\Tests\bin\Debug\Tests.exe
+d:\my documents\visual studio 2010\Projects\Tests\Tests\bin\Debug\Tests.pdb
+d:\my documents\visual studio 2010\Projects\Tests\Tests\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\Tests\Tests\obj\x86\Debug\Tests.LoadForm.resources
+d:\my documents\visual studio 2010\Projects\Tests\Tests\obj\x86\Debug\Tests.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\Tests\Tests\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\my documents\visual studio 2010\Projects\Tests\Tests\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\my documents\visual studio 2010\Projects\Tests\Tests\obj\x86\Debug\Tests.MainForm.resources
+d:\my documents\visual studio 2010\Projects\Tests\Tests\obj\x86\Debug\Tests.FinalForm.resources
+d:\my documents\visual studio 2010\Projects\Tests\Tests\obj\x86\Debug\Tests.InfoForm.resources
+C:\Users\archi\OneDrive\Desktop\Tests\Tests\obj\x86\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\archi\OneDrive\Desktop\Tests\Tests\obj\x86\Debug\Tests.csproj.SuggestedBindingRedirects.cache
+C:\Users\archi\OneDrive\Desktop\Tests\Tests\obj\x86\Debug\Tests.FinalForm.resources
+C:\Users\archi\OneDrive\Desktop\Tests\Tests\obj\x86\Debug\Tests.LoadForm.resources
+C:\Users\archi\OneDrive\Desktop\Tests\Tests\obj\x86\Debug\Tests.MainForm.resources
+C:\Users\archi\OneDrive\Desktop\Tests\Tests\obj\x86\Debug\Tests.Properties.Resources.resources
+C:\Users\archi\OneDrive\Desktop\Tests\Tests\obj\x86\Debug\Tests.csproj.GenerateResource.cache
+C:\Users\archi\OneDrive\Desktop\Tests\Tests\obj\x86\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\archi\OneDrive\Desktop\Tests\Tests\obj\x86\Debug\Tests.exe
+C:\Users\archi\OneDrive\Desktop\Tests\Tests\obj\x86\Debug\Tests.pdb
+C:\Users\archi\OneDrive\Desktop\Tests\Tests\bin\Debug\Tests.exe.config
+C:\Users\archi\OneDrive\Desktop\Tests\Tests\bin\Debug\Tests.exe
+C:\Users\archi\OneDrive\Desktop\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\archi\OneDrive\Desktop\Tests\Tests\obj\x86\Debug\Tests.csproj.CopyComplete
